@@ -1,0 +1,8 @@
+echo "# huar091" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HuaR09/huar091.git
+git push -u origin main
+HuaR
